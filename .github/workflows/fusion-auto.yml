@@ -1,0 +1,78 @@
+name: Fusion automatique
+
+# Les PR des agents (branches claude/, chatgpt/, codex/) sont fusionnées automatiquement
+# dès que la vérification passe, sauf si elles touchent à une zone réservée à l'auteur :
+# dans ce cas, l'étiquette « relecture-auteur » est posée et l'auteur fusionne lui-même.
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review, labeled, unlabeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  fusion:
+    if: >-
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      !github.event.pull_request.draft &&
+      (startsWith(github.head_ref, 'claude/') ||
+       startsWith(github.head_ref, 'chatgpt/') ||
+       startsWith(github.head_ref, 'codex/'))
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+      PR: ${{ github.event.pull_request.number }}
+      BASE: origin/${{ github.base_ref }}
+      HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Repérer les zones réservées à l'auteur
+        id: zones
+        run: |
+          raisons=""
+          for f in $(git diff --name-only "$BASE...$HEAD_SHA"); do
+            case "$f" in
+              AGENTS.md|CLAUDE.md|bible/canon.md|.github/*|outils/*)
+                raisons="$raisons\n- \`$f\` (règles, canon ou automatisation)" ;;
+              romans/*/chapitres/*.md)
+                if git show "$BASE:$f" 2>/dev/null | grep -q '^statut: final'; then
+                  raisons="$raisons\n- \`$f\` (chapitre déjà au statut final)"
+                elif git show "$HEAD_SHA:$f" 2>/dev/null | grep -q '^statut: final'; then
+                  raisons="$raisons\n- \`$f\` (passage au statut final)"
+                fi ;;
+            esac
+          done
+          if gh pr view "$PR" --json labels -q '.labels[].name' | grep -qx 'relecture-auteur'; then
+            raisons="$raisons\n- étiquette « relecture-auteur » présente"
+          fi
+          if [ -n "$raisons" ]; then
+            {
+              echo "raisons<<FIN"
+              printf "%b\n" "$raisons"
+              echo "FIN"
+            } >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Demander la relecture de l'auteur
+        if: steps.zones.outputs.raisons != ''
+        run: |
+          gh label create relecture-auteur --color D93F0B \
+            --description "À relire et fusionner par l'auteur" --force
+          gh pr edit "$PR" --add-label relecture-auteur
+          gh pr merge "$PR" --disable-auto || true
+          if ! gh pr view "$PR" --json comments -q '.comments[].body' | grep -q 'Fusion automatique suspendue'; then
+            printf "Fusion automatique suspendue : cette PR touche une zone réservée à l'auteur.\n%s\n\nL'auteur relit et fusionne lui-même.\n" \
+              "${{ steps.zones.outputs.raisons }}" > corps.md
+            gh pr comment "$PR" --body-file corps.md
+          fi
+
+      - name: Programmer la fusion automatique
+        if: steps.zones.outputs.raisons == ''
+        run: gh pr merge "$PR" --auto --squash --delete-branch

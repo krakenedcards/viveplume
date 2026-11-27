@@ -68,6 +68,14 @@ Un agent **ne tranche jamais seul** une contradiction : il l'inscrit dans
   (ou la tâche que l'auteur lui donne directement) et cite l'issue dans sa PR (`Closes #N`).
 - **Zones** : deux agents ne travaillent jamais en même temps sur le même chapitre ni sur
   la même fiche de bible. Écrire en parallèle sur deux romans différents est sans risque.
+- **Fusion des PR** : une PR d'agent (branche `claude/`, `chatgpt/` ou `codex/`) est
+  fusionnée **automatiquement** dès que la vérification passe ; l'agent n'a rien à faire
+  de plus. Exceptions, marquées automatiquement de l'étiquette `relecture-auteur` et
+  fusionnées par l'auteur seul : changements de `AGENTS.md`, `CLAUDE.md`, `bible/canon.md`,
+  `.github/`, `outils/`, et tout chapitre au statut `final` (ou qui y passe).
+  Un agent ne retire jamais cette étiquette et ne contourne jamais ce mécanisme.
+  Pour que l'auteur relise une PR ordinaire, l'ouvrir en brouillon (draft) ou lui
+  ajouter l'étiquette `relecture-auteur`.
 - Messages de commit : `<zone>(<roman|bible|app>): <action>`,
   ex. `roman(vivencre): chapitre 3 premier jet`, `bible(lieux): ajoute Brumemont`.
 - À la fin de chaque session, ajouter une entrée dans `suivi/journal.md`.
