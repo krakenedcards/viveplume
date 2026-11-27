@@ -6,4 +6,4 @@
 - **[Vivardoises](../factions/vivardoises.md)** (monde de Vivepierre) : esclaves des mines de
   Vivepierre.
 - **Peuples anthropomorphes** : Vivelande compte des peuples d'animaux anthropomorphes
-  (par exemple les éléphants, comme [Semekhet](../personnages/semekhet.md)) à côté des humains.
+  (par exemple les **oliphants**, peuple d'éléphants anthropomorphes, comme [Semekhet](../personnages/semekhet.md)) à côté des humains.
