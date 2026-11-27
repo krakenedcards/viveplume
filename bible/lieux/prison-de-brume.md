@@ -14,7 +14,7 @@ Prison faite de **vivebrume condensée**, donc redevenue liquide (vivencre) : d
 _À compléter._
 
 ## Habitants et factions
-- [Wanjil](../personnages/wanjil.md) et les rebelles.
+- [Wanjil](../personnages/wanjil.md), emprisonné pour avoir lu un livre interdit, et les rebelles.
 
 ## Apparitions
 - Vivebraise.

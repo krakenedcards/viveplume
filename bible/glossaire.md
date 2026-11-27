@@ -14,3 +14,7 @@
 | Passebrume | Peuple sans écriture du monde de Vivencre, qui disparaît dans la vivebrume quand il a accompli sa vie. | Vivencre |
 | Eitrom | Empire esclavagiste du monde de Vivepierre, maître des mines et des vivardoises. | Vivepierre |
 | Ilwë | Passebrume, petite amie d'Eleanore. | Vivencre |
+| Blackwell | Le monde de Vivencre, celui des lords et des Passebrume. | Vivencre |
+| Vivemestre | Maître de la vivencre : fait les vivepages, grave la mémoire dans la chair, impose ses contraintes aux livres. | Vivencre |
+| Gravure | Mémoire gravée par un vivemestre dans la chair et les os ; processus extrêmement douloureux. | Vivencre |
+| Trompe de vivepierre | Trompe que chacun doit porter dans la dystopie de Vivebraise. | Vivebraise |

@@ -15,6 +15,11 @@ livre de vivardoise**. Le pacte est double :
 ## Organisation et membres
 - [Eleanore](../personnages/eleanore.md), vivepage humaine et muette.
 
+## Transformation
+Un [vivemestre](vivemestres.md) **grave dans la chair et les os** de la future vivepage
+l'essentiel pour vivre en société, et son lien de subordination à son lord ou à sa lady. Le
+reste de sa mémoire est pris par le livre chaque semaine.
+
 ## Histoire
 _À compléter._
 

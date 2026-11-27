@@ -27,3 +27,11 @@ Décisions définitives, datées. Elles priment sur tout le reste.
 | 27/11/2026 | Sur le point d'être tuée par un membre de l'empire esclavagiste de Vivepierre, Eleanore s'abandonne à la vivebrume. Sa petite amie, une Passebrume, et Semekhet poursuivent son rêve de nation unie et égale. |
 | 27/11/2026 | Eleanore rencontre sa petite amie passebrume dans Vivencre ; leur amour naissant est un sujet du roman. |
 | 27/11/2026 | La petite amie passebrume d'Eleanore s'appelle Ilwë. L'empire esclavagiste de Vivepierre s'appelle Eitrom (écho de Rome, et « mortier » à l'envers). |
+| 27/11/2026 | La gravure : un vivemestre peut graver un souvenir dans la chair et les os ; normalement réservée à la transformation en vivepage ; extrêmement douloureuse. Eleanore contraint un vivemestre à graver Ilwë. |
+| 27/11/2026 | Le livre a sa volonté propre mais doit agir comme un livre sans volonté, sous les contraintes des vivemestres ; allié ou antagoniste. |
+| 27/11/2026 | Eleanore est muette de naissance. Son maître est un ponte d'un groupe mafieux en expansion ; un vivemestre à sa solde efface certains de ses souvenirs pour couvrir ses méfaits. |
+| 27/11/2026 | Des extrémistes humains veulent chasser les Passebrume ; Eleanore fuit avec eux pour rester avec Ilwë. |
+| 27/11/2026 | Semekhet est aveugle de naissance ; il voit dans la pierre des esclaves morts depuis longtemps ; il s'évade avec un groupe de vivardoises, poursuivi par des chasseurs de primes et des soldats. Les vivardoises sont des animaux anthropomorphes, les maîtres d'Eitrom des humains. |
+| 27/11/2026 | Les deux mondes : Blackwell (Vivencre) et Eitrom (Vivepierre). La traversée de la brume se fait grâce aux Passebrume et à la vivardoise. |
+| 27/11/2026 | La dystopie naît du rêve d'égalité, qui finit par rejeter toute différence. Wanjil, descendant des Passebrume, porte une trompe de vivepierre (obligation de porter la trompe) ; il est emprisonné pour avoir lu un livre interdit ; la vivebraise brûle la vivencre ; il libère Eleanore et Semekhet de la relique dans un feu de joie. |
+| 27/11/2026 | Narration : Vivencre racontée par le livre (passé, 3ᵉ personne, puis point de vue d'Eleanore à la fin) ; Vivepierre en 1ʳᵉ personne ; Vivebrume en trois points de vue (livre, Semekhet, Eleanore) ; Vivebraise en chapitres courts. Public adolescent et adulte. |

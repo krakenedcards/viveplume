@@ -12,6 +12,7 @@ vivepages (lien révélé après Vivencre).
 
 ## Organisation et membres
 - [Semekhet](../personnages/semekhet.md), éléphant aveugle.
+- Les vivardoises sont des **animaux anthropomorphes** ; leurs maîtres d'Eitrom sont **humains**.
 
 ## Histoire
 Esclaves de l'empire d'[Eitrom](../factions/eitrom.md).

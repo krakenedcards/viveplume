@@ -13,7 +13,8 @@ Il exploite les [mines de Vivepierre](../lieux/mines-de-vivepierre.md)
 grâce à ses esclaves, les [vivardoises](vivardoises.md).
 
 ## Organisation et membres
-_À compléter._
+- Les maîtres sont **humains** ; leurs esclaves, les vivardoises, sont des animaux anthropomorphes.
+- Chasseurs de primes et soldats lancés à la poursuite des évadés (Vivepierre).
 
 ## Histoire
 - Vivepierre : [Semekhet](../personnages/semekhet.md) s'évade de ses mines.

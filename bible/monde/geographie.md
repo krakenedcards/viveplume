@@ -4,9 +4,10 @@ Vivelande est formée, à l'époque de Vivencre et de Vivepierre, de **deux mond
 zone remplie de vivebrume** ([zone de vivebrume](../lieux/zone-de-vivebrume.md)). Chaque monde
 ignore l'autre, ou presque.
 
-- **Le monde de Vivencre** : celui des lords et des ladies, de leurs [vivepages](../factions/vivepages.md),
-  et des [Passebrume](../factions/passebrume.md) qui vit aux abords de la vivebrume.
-- **Le monde de Vivepierre** : celui des [mines de Vivepierre](../lieux/mines-de-vivepierre.md) et
+- **Blackwell**, le monde de Vivencre : celui des lords et des ladies, de leurs [vivepages](../factions/vivepages.md),
+  des [Passebrume](../factions/passebrume.md) qui vivent aux abords de la vivebrume, et de groupes
+  [extrémistes humains](../factions/extremistes-humains.md) qui veulent les chasser du territoire.
+- **Eitrom**, le monde de Vivepierre, du nom de son [empire](../factions/eitrom.md) : celui des [mines de Vivepierre](../lieux/mines-de-vivepierre.md) et
   des [vivardoises](../factions/vivardoises.md) qui y sont esclaves.
 
-_À compléter : noms des deux mondes, climats, cartes._
+_À compléter : climats, cartes._

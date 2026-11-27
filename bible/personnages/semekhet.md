@@ -18,9 +18,12 @@ _À compléter._
 ## Histoire
 - [Vivardoise](../factions/vivardoises.md) : esclave des
   [mines de Vivepierre](../lieux/mines-de-vivepierre.md).
-- **Aveugle**, il voit grâce à la vivepierre, qui absorbe les visions alentour : sa vue est
+- **Aveugle de naissance**, il voit grâce à la vivepierre, qui absorbe les visions alentour : sa vue est
   **déformée et décalée dans le temps**.
-- Il s'évade et fuit, et sa fuite finit en cul-de-sac devant la
+- Dans les galeries anciennes, la pierre lui montre des esclaves morts depuis longtemps : c'est ce
+  qui déclenche son évasion.
+- Il s'évade avec un groupe de vivardoises, poursuivi par des chasseurs de primes et des soldats
+  d'Eitrom. Sa fuite finit en cul-de-sac devant la
   [vivebrume](../lieux/zone-de-vivebrume.md).
 - Il porte un **collier de perles de vivardoise** qu'il a construit lui-même dans les mines.
 - Dans Vivebrume, Eleanore devenue brume s'enferme dans son collier ; plus tard, il **devient une
@@ -29,6 +32,7 @@ _À compléter._
   poursuit le rêve d'Eleanore d'une nation unie et égale.
 - Dans Vivebraise, leur conscience, toujours dans la relique, ouvre le roman en pleine
   désillusion devant la dystopie qu'est devenu leur rêve.
+- À la fin de Vivebraise, [Wanjil](wanjil.md) les libère de la relique dans un feu de joie.
 
 ## Relations
 - [[eleanore]] : fusionne avec elle dans la relique (Vivebrume).
