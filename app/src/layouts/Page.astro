@@ -1,0 +1,8 @@
+---
+import { base } from '../content.mjs';
+import '../style.css';
+const { title } = Astro.props;
+---
+<!doctype html><html lang="fr"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title} · Vivelande</title></head>
+<body><a class="skip" href="#contenu">Aller au contenu</a><header><a class="brand" href={base}>Vivelande</a><nav aria-label="Navigation principale"><a href={base}>Romans</a></nav></header>
+<main id="contenu"><slot /></main><footer>Vivelande · Liseuse</footer></body></html>
