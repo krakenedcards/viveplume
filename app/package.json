@@ -1,0 +1,13 @@
+{
+  "name": "liseuse-vivelande",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "astro build"
+  },
+  "type": "module",
+  "dependencies": {
+    "astro": "5.18.2",
+    "sharp": "0.35.5",
+    "yaml": "2.9.1"
+  }
+}
