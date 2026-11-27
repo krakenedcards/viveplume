@@ -10,7 +10,7 @@ Viveplume contient l'univers **Vivelande** :
 - `romans/<slug>/` — un dossier par roman : `vivencre`, `vivepierre`, `vivebrume`, `vivebraise`.
 - `app/` — la liseuse (site web installable, lisible sur tout support).
 - `outils/` — scripts de vérification.
-- `suivi/` — journal des sessions et questions ouvertes.
+- `suivi/` — journal des sessions (`suivi/journal/`, un fichier par session) et questions ouvertes.
 
 ## 2. Hiérarchie du canon
 
@@ -76,9 +76,21 @@ Un agent **ne tranche jamais seul** une contradiction : il l'inscrit dans
   Un agent ne retire jamais cette étiquette et ne contourne jamais ce mécanisme.
   Pour que l'auteur relise une PR ordinaire, l'ouvrir en brouillon (draft) ou lui
   ajouter l'étiquette `relecture-auteur`.
-- Messages de commit : `<zone>(<roman|bible|app>): <action>`,
-  ex. `roman(vivencre): chapitre 3 premier jet`, `bible(lieux): ajoute Brumemont`.
-- À la fin de chaque session, ajouter une entrée dans `suivi/journal.md`.
+- **Fichiers partagés** : la règle « Zones » ne s'applique pas à `suivi/questions-ouvertes.md`,
+  `bible/glossaire.md` et `bible/chronologie.md`. On y **ajoute** des lignes sans modifier
+  celles des autres ; en cas de conflit Git, garder les lignes des deux côtés.
+- Messages de commit : `<zone>(<portée>): <action>`, en français. Zones et portées :
+  | Zone | Portée | Exemple |
+  |------|--------|---------|
+  | `roman` | slug du roman | `roman(vivencre): chapitre 3, premier jet` |
+  | `bible` | dossier ou fichier | `bible(lieux): ajoute Brumemont` |
+  | `suivi` | `journal` ou `questions` | `suivi(journal): session du 28/11` |
+  | `app` | partie de l'app | `app(lecteur): marque-page` |
+  | `outils` / `ci` | script ou workflow | `ci(fusion-auto): corrige le commentaire` |
+  | `agents` | `regles` | `agents(regles): précise les fichiers partagés` |
+- À la fin de chaque session, **créer** un fichier dans `suivi/journal/`
+  (`AAAA-MM-JJ-agent-sujet.md`, voir `suivi/journal/README.md`) ; ne jamais modifier
+  l'entrée d'une autre session. Ce fichier fait partie de la PR de la tâche.
 - Lancer `python3 outils/verifier.py` avant de pousser ; la CI le relance sur chaque PR.
 
 ## 8. Environnement
