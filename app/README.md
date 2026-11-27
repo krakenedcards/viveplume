@@ -23,3 +23,5 @@ Les chargeurs des collections parcourent les sources au moyen du glob natif de N
 Les routes de chapitre conservent le chemin source, sans extension. Le numéro YAML ordonne le sommaire et les liens précédent/suivant. Markdown-it rend les illustrations et leur légende et désactive le HTML brut.
 
 La progression par roman combine le rang du chapitre et la fraction parcourue. Le sommaire propose la dernière position et un marque-page explicite indépendant. Les données restent dans le navigateur et la lecture fonctionne aussi lorsque le stockage est refusé.
+
+La collection bible génère un index pour chaque dossier, y compris ceux qui contiennent seulement un modèle. README.md devient la page du dossier. Les liens Markdown conservent leurs ancres et les modèles de fiches sont exclus.
