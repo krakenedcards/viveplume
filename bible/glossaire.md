@@ -19,3 +19,5 @@
 | Gravure | Mémoire gravée par un vivemestre dans la chair et les os ; processus extrêmement douloureux. | Vivencre |
 | Trompe de vivepierre | Trompe que chacun doit porter dans la dystopie de Vivebraise. | Vivebraise |
 | Concorde | Nation fondée dans Vivebrume, où chacun est égal ; devenue dystopie dans Vivebraise. | Vivebrume |
+| Maison Greyhall | Groupe mafieux en expansion de Blackwell, sous façade de maison noble. | Vivencre |
+| Mestre | Titre des vivemestres. | Vivencre |
