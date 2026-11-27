@@ -3,14 +3,20 @@ nom: "Semekhet"
 slug: "semekhet"
 romans: [vivepierre, vivebrume, vivebraise]
 statut: vivant
-illustration: null
+illustration: ../illustrations/portrait-semekhet.webp
 ---
 
 ## En une phrase
 Oliphant aveugle, esclave des mines, qui voit à travers la vivepierre.
 
 ## Apparence
-**Oliphant** (éléphant anthropomorphe). _À compléter._
+![Semekhet, la main posée sur la paroi de la mine](../illustrations/portrait-semekhet.webp)
+
+- **Oliphant** (éléphant anthropomorphe), peau brune et ridée, grandes oreilles déchiquetées.
+- **Yeux clos** (il est aveugle de naissance) ; une défense visible, trompe recourbée.
+- Mains à cinq doigts ; il « voit » en posant la paume sur la paroi de vivepierre.
+- Tunique en haillons rapiécée, ceinture et bandoulière de cuir, besace à la hanche.
+- Au cou, son **collier de perles de vivardoise** : des pierres sombres, taillées en gros blocs.
 
 ## Caractère et motivations
 _À compléter._
