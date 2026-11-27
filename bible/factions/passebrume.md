@@ -22,7 +22,7 @@ il **disparaît dans la vivebrume**.
   semaine leur paraît monstrueux, à eux qui vivent pour accomplir.
 
 ## Organisation et membres
-- La **petite amie d'[Eleanore](../personnages/eleanore.md)** (nom à choisir) : elle rencontre Eleanore dans
+- [Ilwë](../personnages/ilwe.md), **petite amie d'[Eleanore](../personnages/eleanore.md)** : elle rencontre Eleanore dans
   Vivencre, où naît leur amour. : après la disparition
   d'Eleanore, elle poursuit son rêve avec Semekhet (Vivebrume).
 

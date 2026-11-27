@@ -14,7 +14,7 @@ vivepages (lien révélé après Vivencre).
 - [Semekhet](../personnages/semekhet.md), éléphant aveugle.
 
 ## Histoire
-Esclaves de [l'empire esclavagiste](../factions/empire-esclavagiste.md).
+Esclaves de l'empire d'[Eitrom](../factions/eitrom.md).
 
 ## Apparitions
 - Vivepierre.

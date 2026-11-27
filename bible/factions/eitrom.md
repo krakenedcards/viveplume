@@ -1,14 +1,15 @@
 ---
-nom: "L'empire esclavagiste (nom provisoire : Romual ?)"
-slug: "empire-esclavagiste"
+nom: "Eitrom"
+slug: "eitrom"
 romans: [vivepierre, vivebrume]
 illustration: null
 ---
 
 ## Nature et objectifs
-Nom envisagé par l'auteur : **Romual** (à confirmer).
+**Eitrom** est l'empire esclavagiste du monde de Vivepierre. Le nom évoque Rome, et se lit à
+l'envers comme « mortie(r) », jeu de mot sur le mortier.
 
-Empire du monde de Vivepierre, qui exploite les [mines de Vivepierre](../lieux/mines-de-vivepierre.md)
+Il exploite les [mines de Vivepierre](../lieux/mines-de-vivepierre.md)
 grâce à ses esclaves, les [vivardoises](vivardoises.md).
 
 ## Organisation et membres

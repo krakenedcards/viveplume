@@ -50,10 +50,10 @@ Dans Vivebrume, [Eleanore](../personnages/eleanore.md) et [Semekhet](../personna
 **fusionnent concrètement** en une relique mythique, qui fonde la nation utopique. Leur conscience
 y demeure : dans Vivebraise, ils assistent, désabusés, à la dystopie qu'est devenu leur rêve.
 Comment elle se forme :
-1. Sur le point d'être tuée par un membre de [l'empire esclavagiste](../factions/empire-esclavagiste.md), Eleanore
+1. Sur le point d'être tuée par un membre de l'empire d'[Eitrom](../factions/eitrom.md), Eleanore
    **s'abandonne à la vivebrume** et devient brume. Pour ne pas disparaître, elle choisit de **s'enfermer dans le collier
    de perles de Semekhet**, des perles de vivardoise qu'il a taillées lui-même dans les mines.
-   Sa petite amie, une [Passebrume](../factions/passebrume.md), et Semekhet poursuivent alors son
+   Sa petite amie [Ilwë](../personnages/ilwe.md), une [Passebrume](../factions/passebrume.md), et Semekhet poursuivent alors son
    rêve d'une nation unie et égale.
 2. Plus tard, Semekhet **devient une statue de vivepierre**.
 

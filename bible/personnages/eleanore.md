@@ -22,19 +22,19 @@ _À compléter._
   échange comme agent personnel.
 - Elle communique grâce à sa **viveplume**, qui dessine ses pensées.
 - Son histoire l'amène à côtoyer les [Passebrume](../factions/passebrume.md).
-- Dans Vivebrume, sur le point d'être tuée par un membre de [l'empire esclavagiste](../factions/empire-esclavagiste.md),
+- Dans Vivebrume, sur le point d'être tuée par un membre de l'empire d'[Eitrom](../factions/eitrom.md),
   elle **s'abandonne à la vivebrume** et devient brume. Elle choisit de s'enfermer dans le collier de perles de
   Semekhet pour ne pas disparaître. Elle fusionne ainsi concrètement avec [Semekhet](semekhet.md) en une
-  relique mythique qui fonde la nation utopique. Sa petite amie passebrume et Semekhet
+  relique mythique qui fonde la nation utopique. Sa petite amie [Ilwë](ilwe.md) et Semekhet
   poursuivent son rêve de nation unie et égale.
 - Dans Vivebraise, leur conscience, toujours dans la relique, ouvre le roman en pleine
   désillusion devant la dystopie qu'est devenu leur rêve.
 
 ## Relations
 - [[semekhet]] : fusionne avec lui dans la relique (Vivebrume).
-- [[passebrume]] : sa **petite amie** est une Passebrume (nom à choisir). Elles se rencontrent dans Vivencre ; leur
+- [[ilwe]] : sa **petite amie**, une Passebrume. Elles se rencontrent dans Vivencre ; leur
   amour naissant est l'un des sujets du roman.
-- [[empire-esclavagiste]] : un de ses membres manque de la tuer (Vivebrume).
+- [[eitrom]] : un de ses membres manque de la tuer (Vivebrume).
 
 ## Apparitions
 - Vivencre : personnage principal.

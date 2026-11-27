@@ -11,7 +11,7 @@ illustration: null
 Mines où l'on extrait la vivepierre, la mémoire solidifiée.
 
 ## Histoire
-Exploitées par [l'empire esclavagiste](../factions/empire-esclavagiste.md). Semekhet y a taillé les perles de vivardoise de son collier.
+Exploitées par l'empire d'[Eitrom](../factions/eitrom.md). Semekhet y a taillé les perles de vivardoise de son collier.
 
 ## Habitants et factions
 - [Vivardoises](../factions/vivardoises.md) (esclaves), dont [Semekhet](../personnages/semekhet.md).
