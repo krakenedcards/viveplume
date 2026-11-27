@@ -43,10 +43,16 @@ Braise vivante, plasma de la pensée : les émotions et la passion.
 Ardoise vivante dont sont faites les pages des livres des [vivepages](../factions/vivepages.md) :
 c'est elle qui reçoit la mémoire abandonnée chaque semaine. Son lien avec la vivepierre (et avec
 les [vivardoises](../factions/vivardoises.md), les esclaves des mines) n'est pas révélé dans
-Vivencre : il le sera dans un roman ultérieur.
+Vivencre. Les esclaves portent le nom de la pierre qu'ils extraient : il le sera dans un roman ultérieur.
 
 ### La Relique
 Dans Vivebrume, [Eleanore](../personnages/eleanore.md) et [Semekhet](../personnages/semekhet.md)
 **fusionnent concrètement** en une relique mythique, qui fonde la nation utopique. Leur conscience
 y demeure : dans Vivebraise, ils assistent, désabusés, à la dystopie qu'est devenu leur rêve.
-_Nom et forme de la relique à préciser._
+Comment elle se forme :
+1. Eleanore **devient brume**. Pour ne pas disparaître, elle choisit de **s'enfermer dans le collier
+   de perles de Semekhet**.
+2. Plus tard, Semekhet **devient une statue de vivepierre**.
+
+La relique est donc la statue de vivepierre (la mémoire) qui porte le collier où vit la brume
+d'Eleanore (le rêve) : la mémoire et le rêve réunis.

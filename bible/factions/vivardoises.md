@@ -6,7 +6,9 @@ illustration: null
 ---
 
 ## Nature et objectifs
-Les vivardoises sont les **esclaves des mines de Vivepierre**.
+Les vivardoises sont les **esclaves des mines de Vivepierre**. Ils portent le nom de la pierre
+qu'ils extraient, la [vivardoise](../monde/magie.md#vivardoise), dont sont faits les livres des
+vivepages (lien révélé après Vivencre).
 
 ## Organisation et membres
 - [Semekhet](../personnages/semekhet.md), éléphant aveugle.
