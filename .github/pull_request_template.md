@@ -12,4 +12,4 @@ Issue : Closes #
 - [ ] Les incohérences repérées sont dans `suivi/questions-ouvertes.md`
 - [ ] Les illustrations font < 1 Mo et sont créditées dans `CREDITS.md`
 - [ ] `python3 outils/verifier.py` passe
-- [ ] Entrée ajoutée dans `suivi/journal.md`
+- [ ] Fichier de session créé dans `suivi/journal/`
