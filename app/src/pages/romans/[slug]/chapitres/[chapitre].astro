@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Page from '../../../../layouts/Page.astro';
 import { base } from '../../../../content.mjs';
 import { renderPage, chapterUrl } from '../../../../markdown.mjs';
+import { localLink } from '../../../../bible.mjs';
 export async function getStaticPaths() {
   const chapters = (await getCollection('chapitres')).map(c => c.data).sort((a,b) => a.numero-b.numero);
   return (await getCollection('romans')).flatMap(({data: book}) => {
@@ -11,7 +12,7 @@ export async function getStaticPaths() {
   });
 }
 const { book,c,prev,next,index,total } = Astro.props;
-const html = await renderPage(c.file, undefined, c.illustrations);
+const html = await renderPage(c.file, href => localLink(c.file, href), c.illustrations);
 ---
 <Page title={c.titre}><article class="reading" data-chapter={c.file} data-book={book.slug} data-index={index} data-total={total}>
 <a href={base+'romans/'+book.slug+'/'}>{book.titre} · Sommaire</a>
