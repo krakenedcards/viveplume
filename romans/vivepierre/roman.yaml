@@ -1,6 +1,6 @@
 titre: Vivepierre
 slug: vivepierre
-ordre_lecture: null     # position dans la saga, à définir
+ordre_lecture: 2
 statut: conception      # conception | ecriture | relecture | termine
 resume: "Semekhet, esclave éléphant aveugle qui voit à travers la vivepierre, s'évade des mines ; sa fuite finit devant la vivebrume."
 couverture: null        # ex. illustrations/couverture.webp

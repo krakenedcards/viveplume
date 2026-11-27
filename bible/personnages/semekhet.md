@@ -1,7 +1,7 @@
 ---
 nom: "Semekhet"
 slug: "semekhet"
-romans: [vivepierre]
+romans: [vivepierre, vivebrume, vivebraise]
 statut: vivant
 illustration: null
 ---
@@ -22,8 +22,13 @@ _À compléter._
   **déformée et décalée dans le temps**.
 - Il s'évade et fuit, et sa fuite finit en cul-de-sac devant la
   [vivebrume](../lieux/zone-de-vivebrume.md).
+- Dans Vivebrume, il fusionne concrètement avec [Eleanore](eleanore.md) en une
+  relique mythique qui fonde la nation utopique.
+- Dans Vivebraise, leur conscience, toujours dans la relique, ouvre le roman en pleine
+  désillusion devant la dystopie qu'est devenu leur rêve.
 
 ## Relations
+- [[eleanore]] : fusionne avec elle dans la relique (Vivebrume).
 _À compléter._
 
 ## Apparitions

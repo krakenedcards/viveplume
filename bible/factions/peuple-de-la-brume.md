@@ -17,4 +17,4 @@ _À compléter._
 _À compléter. Nom définitif à choisir (voir suivi/questions-ouvertes.md)._
 
 ## Apparitions
-- Vivencre : Eléanore les côtoie.
+- Vivencre : Eleanore les côtoie.

@@ -7,6 +7,7 @@ L'histoire de [Wanjil](../../bible/personnages/wanjil.md), dans un futur lointai
 
 ## Personnages principaux
 - [Wanjil](../../bible/personnages/wanjil.md)
+- [Eleanore](../../bible/personnages/eleanore.md) et [Semekhet](../../bible/personnages/semekhet.md), fondus dans la relique : le roman s'ouvre sur leur point de vue, en pleine désillusion devant la dystopie qu'est devenu leur rêve.
 
 ## Arc et chapitres
 | N° | Titre | Point de vue | Résumé | Statut |

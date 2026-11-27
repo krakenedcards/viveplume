@@ -8,7 +8,7 @@ illustration: null
 ---
 
 ## Description
-Prison faite de **vivebrume condensée**, où sont enfermés ceux qui ne se plient pas aux règles.
+Prison faite de **vivebrume condensée**, donc redevenue liquide (vivencre) : des rêves figés en règles, où sont enfermés ceux qui ne se plient pas aux règles.
 
 ## Histoire
 _À compléter._

@@ -16,7 +16,7 @@ En Vivelande, la pensée est une matière. Comme l'eau, elle existe sous quatre 
 Encre vivante, liquide de la pensée : le raisonnement.
 - Une **viveplume** est une plume chargée de vivencre qui dessine les pensées de celui qui la
   tient. Elle permet de communiquer sans parler.
-- Un **livre de vivencre** peut être lié à une personne (voir [vivepage](../factions/vivepages.md)) :
+- Un **livre de vivardoise** peut être lié par la vivencre à une personne (voir [vivepage](../factions/vivepages.md)) :
   il raisonne pour elle, à la manière d'un agent personnel, et se nourrit en échange de sa mémoire.
 
 ### Vivepierre
@@ -31,9 +31,22 @@ Brume vivante, gaz de la pensée : les rêves.
 - La vivebrume **consume les rêves** de ceux qui y entrent.
 - Une vaste [zone de vivebrume](../lieux/zone-de-vivebrume.md) sépare les deux mondes de
   Vivencre et de Vivepierre.
-- La vivebrume peut être **condensée** : on en fait des prisons (voir
-  [prison de brume](../lieux/prison-de-brume.md)).
+- La vivebrume peut être **condensée** : comme un gaz qui se condense, elle **redevient liquide,
+  c'est-à-dire de la vivencre**. Le rêve condensé se fige en raisonnement, en règle : c'est la
+  matière des prisons de la dystopie (voir [prison de brume](../lieux/prison-de-brume.md)).
 
 ### Vivebraise
 Braise vivante, plasma de la pensée : les émotions et la passion.
 - _À compléter : propriétés, usages._
+
+### Vivardoise
+Ardoise vivante dont sont faites les pages des livres des [vivepages](../factions/vivepages.md) :
+c'est elle qui reçoit la mémoire abandonnée chaque semaine. Son lien avec la vivepierre (et avec
+les [vivardoises](../factions/vivardoises.md), les esclaves des mines) n'est pas révélé dans
+Vivencre : il le sera dans un roman ultérieur.
+
+### La Relique
+Dans Vivebrume, [Eleanore](../personnages/eleanore.md) et [Semekhet](../personnages/semekhet.md)
+**fusionnent concrètement** en une relique mythique, qui fonde la nation utopique. Leur conscience
+y demeure : dans Vivebraise, ils assistent, désabusés, à la dystopie qu'est devenu leur rêve.
+_Nom et forme de la relique à préciser._

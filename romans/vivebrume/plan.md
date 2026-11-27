@@ -6,7 +6,7 @@ La rencontre des deux mondes de Vivencre et de Vivepierre, jusque-là séparés 
 État : gazeux — faculté : les rêves.
 
 ## Personnages principaux
-_À préciser (Eléanore et Semekhet ?)._
+- [Eleanore](../../bible/personnages/eleanore.md) et [Semekhet](../../bible/personnages/semekhet.md) : les deux points de vue. Ils fusionnent concrètement en une relique mythique qui fonde la nation utopique.
 
 ## Arc et chapitres
 | N° | Titre | Point de vue | Résumé | Statut |
