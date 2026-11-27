@@ -5,3 +5,21 @@
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#18211d;--ink:#f1ecde;--muted:#bbc8bd;--rule:#79877b;--accent:#bbdcba;color-scheme:dark}}
 :root[data-size=large] .prose{font-size:1.35rem}:root[data-size=xlarge] .prose{font-size:1.6rem}
 summary,button,select{font:inherit;cursor:pointer}details{position:relative}summary{font:1rem system-ui}.settings{display:grid;gap:.7rem;position:absolute;right:0;z-index:2;background:var(--paper);border:1px solid var(--rule);padding:1rem;min-width:12rem}.settings label{display:grid}button,select{background:var(--paper);color:var(--ink);border:1px solid var(--rule);padding:.4rem}.mark{position:sticky;top:0;background:var(--paper);padding:.25rem 0;font:1rem system-ui}
+
+@media (max-width: 40rem) {
+  header details {
+    flex-basis: 100%;
+    min-width: 0;
+  }
+
+  header .settings {
+    position: static;
+    min-width: 0;
+    margin-top: .5rem;
+  }
+
+  .settings select {
+    min-width: 0;
+    max-width: 100%;
+  }
+}
