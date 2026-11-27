@@ -25,3 +25,5 @@ Les routes de chapitre conservent le chemin source, sans extension. Le numéro Y
 La progression par roman combine le rang du chapitre et la fraction parcourue. Le sommaire propose la dernière position et un marque-page explicite indépendant. Les données restent dans le navigateur et la lecture fonctionne aussi lorsque le stockage est refusé.
 
 La collection bible génère un index pour chaque dossier, y compris ceux qui contiennent seulement un modèle. README.md devient la page du dossier. Les liens Markdown conservent leurs ancres et les modèles de fiches sont exclus.
+
+Après une première visite en ligne et la fin du téléchargement, le service worker permet de lire toutes les pages publiées, même celles encore jamais ouvertes. Chaque version met en cache les ressources locales de la construction. Une mise à jour prend le relais après la fermeture des onglets de la version précédente. Pour tester, servir dist/ sous /viveplume/ sur localhost ou en HTTPS.
