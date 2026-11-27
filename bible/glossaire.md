@@ -21,3 +21,4 @@
 | Concorde | Nation fondée dans Vivebrume, où chacun est égal ; devenue dystopie dans Vivebraise. | Vivebrume |
 | Maison Greyhall | Groupe mafieux en expansion de Blackwell, sous façade de maison noble. | Vivencre |
 | Mestre | Titre des vivemestres. | Vivencre |
+| Oliphant | Peuple d'éléphants anthropomorphes, auquel appartient Semekhet. | Vivepierre |

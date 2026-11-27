@@ -7,10 +7,10 @@ illustration: null
 ---
 
 ## En une phrase
-Éléphant aveugle, esclave des mines, qui voit à travers la vivepierre.
+Oliphant aveugle, esclave des mines, qui voit à travers la vivepierre.
 
 ## Apparence
-Éléphant anthropomorphe. _À compléter._
+**Oliphant** (éléphant anthropomorphe). _À compléter._
 
 ## Caractère et motivations
 _À compléter._

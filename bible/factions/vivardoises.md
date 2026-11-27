@@ -11,7 +11,7 @@ qu'ils extraient, la [vivardoise](../monde/magie.md#vivardoise), dont sont faits
 vivepages (lien révélé après Vivencre).
 
 ## Organisation et membres
-- [Semekhet](../personnages/semekhet.md), éléphant aveugle.
+- [Semekhet](../personnages/semekhet.md), oliphant aveugle.
 - Les vivardoises sont des **animaux anthropomorphes** ; leurs maîtres d'Eitrom sont **humains**.
 
 ## Histoire
