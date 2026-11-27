@@ -62,6 +62,8 @@ jobs:
 
       - name: Demander la relecture de l'auteur
         if: steps.zones.outputs.raisons != ''
+        env:
+          RAISONS: ${{ steps.zones.outputs.raisons }}
         run: |
           gh label create relecture-auteur --color D93F0B \
             --description "À relire et fusionner par l'auteur" --force
@@ -69,7 +71,7 @@ jobs:
           gh pr merge "$PR" --disable-auto || true
           if ! gh pr view "$PR" --json comments -q '.comments[].body' | grep -q 'Fusion automatique suspendue'; then
             printf "Fusion automatique suspendue : cette PR touche une zone réservée à l'auteur.\n%s\n\nL'auteur relit et fusionne lui-même.\n" \
-              "${{ steps.zones.outputs.raisons }}" > corps.md
+              "$RAISONS" > corps.md
             gh pr comment "$PR" --body-file corps.md
           fi
 
