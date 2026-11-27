@@ -37,4 +37,4 @@ Décisions définitives, datées. Elles priment sur tout le reste.
 | 27/11/2026 | Narration : Vivencre racontée par le livre (passé, 3ᵉ personne, puis point de vue d'Eleanore à la fin) ; Vivepierre en 1ʳᵉ personne ; Vivebrume en trois points de vue (livre, Semekhet, Eleanore) ; Vivebraise en chapitres courts. Public adolescent et adulte. |
 | 27/11/2026 | La nation fondée dans Vivebrume s'appelle la Concorde. Le livre interdit lu par Wanjil est le livre de vivardoise d'Eleanore, narrateur de Vivencre. |
 | 27/11/2026 | Le groupe mafieux est la maison Greyhall ; le maître d'Eleanore est Lord Alfred Greyhall ; son vivemestre est Mestre Tobias Blot. |
-| 28/11/2026 | Le peuple des éléphants anthropomorphes s'appelle les oliphants. |
+| 27/11/2026 | Le peuple des éléphants anthropomorphes s'appelle les oliphants. |
