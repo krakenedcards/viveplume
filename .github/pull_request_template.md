@@ -2,7 +2,9 @@
 <!-- Chapitre, fiche de bible, fonctionnalité de l'app… -->
 
 ## Agent
-- [ ] Claude  - [ ] ChatGPT  - [ ] Auteur
+- [ ] Claude  - [ ] ChatGPT / Codex  - [ ] Auteur
+
+Issue : Closes #
 
 ## Vérifications
 - [ ] J'ai lu `bible/canon.md`, `bible/style.md` et les fiches concernées
