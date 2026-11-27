@@ -1,6 +1,6 @@
 titre: Vivebraise
 slug: vivebraise
-ordre_lecture: null     # position dans la saga, à définir
+ordre_lecture: 4
 statut: conception      # conception | ecriture | relecture | termine
-resume: ""
+resume: "Dans un futur lointain devenu dystopie, Wanjil, prisonnier de la brume, prend part à une rébellion passionnée."
 couverture: null        # ex. illustrations/couverture.webp

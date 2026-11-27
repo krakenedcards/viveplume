@@ -1,6 +1,6 @@
 titre: Vivebrume
 slug: vivebrume
-ordre_lecture: null     # position dans la saga, à définir
+ordre_lecture: 3
 statut: conception      # conception | ecriture | relecture | termine
-resume: ""
+resume: "La rencontre des deux mondes à travers la vivebrume et la fondation d'une nation où chacun est égal."
 couverture: null        # ex. illustrations/couverture.webp
