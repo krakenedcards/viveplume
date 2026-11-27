@@ -18,3 +18,4 @@
 | Vivemestre | Maître de la vivencre : fait les vivepages, grave la mémoire dans la chair, impose ses contraintes aux livres. | Vivencre |
 | Gravure | Mémoire gravée par un vivemestre dans la chair et les os ; processus extrêmement douloureux. | Vivencre |
 | Trompe de vivepierre | Trompe que chacun doit porter dans la dystopie de Vivebraise. | Vivebraise |
+| Concorde | Nation fondée dans Vivebrume, où chacun est égal ; devenue dystopie dans Vivebraise. | Vivebrume |

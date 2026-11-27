@@ -20,13 +20,16 @@ _À compléter._
 - Vit dans un futur lointain, où la nation née de la brume est devenue une dystopie : le rêve
   d'égalité a fini par rejeter toute différence. Une des règles nées avec le temps oblige chacun à
   **porter une trompe**, et il s'en est forgé une en vivepierre.
-- Enfermé dans une [prison de brume](../lieux/prison-de-brume.md) pour avoir **lu un livre interdit**.
+- Enfermé dans une [prison de brume](../lieux/prison-de-brume.md) pour avoir **lu un livre interdit** :
+  le **livre de vivardoise d'Eleanore**, celui qui raconte Vivencre.
+- Piste envisagée : il descendrait d'[Ilwë](ilwe.md), ce qui le lierait à Eleanore (non décidé).
 - Il y prend part à une rébellion passionnée, qui se prolonge à l'extérieur.
 - Il finit par **libérer Eleanore et Semekhet** de la relique, leur prison d'éternité, dans un
   **feu de joie**.
 
 ## Relations
 - [[eleanore]], [[semekhet]] : il les libère de la relique.
+- Le livre d'Eleanore : le livre interdit qu'il a lu.
 
 ## Apparitions
 - Vivebraise : personnage principal.

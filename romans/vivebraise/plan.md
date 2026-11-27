@@ -1,7 +1,7 @@
 # Vivebraise — plan
 
 ## Pitch
-L'histoire de [Wanjil](../../bible/personnages/wanjil.md), dans un futur lointain où le rêve bâti dans la brume est devenu une dystopie sans place pour l'individualité. Enfermé dans une [prison de brume](../../bible/lieux/prison-de-brume.md) pour avoir lu un livre interdit, il y prend part à une rébellion passionnée, qui se prolonge à l'extérieur. Il finit par libérer Eleanore et Semekhet de la relique dans un feu de joie.
+L'histoire de [Wanjil](../../bible/personnages/wanjil.md), dans un futur lointain où le rêve bâti dans la brume est devenu une dystopie sans place pour l'individualité. Enfermé dans une [prison de brume](../../bible/lieux/prison-de-brume.md) pour avoir lu un livre interdit (le livre d'Eleanore, narrateur de Vivencre), il y prend part à une rébellion passionnée, qui se prolonge à l'extérieur. Il finit par libérer Eleanore et Semekhet de la relique dans un feu de joie.
 
 État : plasma — faculté : les émotions et la passion.
 

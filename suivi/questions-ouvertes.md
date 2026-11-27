@@ -17,7 +17,7 @@ que lorsque l'auteur a répondu (et la réponse est reportée dans bible/canon.m
 | 10 | 27/11/2026 | claude | Comment Eleanore devient-elle brume : en entrant dans la vivebrume, comme les Passebrume quand ils ont accompli leur vie ? | bible/personnages/eleanore.md | Menacée de mort par un membre de l'empire esclavagiste, elle s'abandonne à la vivebrume (canon.md). |
 | 11 | 27/11/2026 | claude | Nom de la petite amie passebrume d'Eleanore ; se rencontrent-elles dans Vivencre ? | bible/personnages/eleanore.md, bible/factions/passebrume.md | Rencontre et amour naissant dans Vivencre (canon.md). Ilwë (canon.md). |
 | 12 | 27/11/2026 | claude | Nom de l'empire esclavagiste de Vivepierre. | bible/factions/empire-esclavagiste.md | Eitrom (canon.md). |
-| 13 | 27/11/2026 | claude | Nom de la nation fondée dans Vivebrume. | bible/monde/histoire.md | |
+| 13 | 27/11/2026 | claude | Nom de la nation fondée dans Vivebrume. | bible/monde/histoire.md | Concorde (canon.md). |
 | 14 | 27/11/2026 | claude | Noms du groupe mafieux, du maître d'Eleanore et du vivemestre à sa solde. | bible/factions/groupe-mafieux.md, bible/factions/vivemestres.md | |
-| 15 | 27/11/2026 | claude | Wanjil descend-il d'Ilwë ? (Eleanore et Ilwë n'ont pas d'enfant ensemble, mais Ilwë pourrait en avoir eu après.) | bible/personnages/wanjil.md | |
-| 16 | 27/11/2026 | claude | Le livre interdit lu par Wanjil : est-ce le livre de vivardoise d'Eleanore, narrateur de Vivencre ? | bible/personnages/wanjil.md | |
+| 15 | 27/11/2026 | claude | Wanjil descend-il d'Ilwë ? (Eleanore et Ilwë n'ont pas d'enfant ensemble, mais Ilwë pourrait en avoir eu après.) | bible/personnages/wanjil.md | Peut-être : piste pour lier Eleanore et Wanjil, à décider. |
+| 16 | 27/11/2026 | claude | Le livre interdit lu par Wanjil : est-ce le livre de vivardoise d'Eleanore, narrateur de Vivencre ? | bible/personnages/wanjil.md | Oui (canon.md). |

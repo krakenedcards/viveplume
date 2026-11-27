@@ -37,6 +37,8 @@ _À compléter._
   poursuivent son rêve de nation unie et égale.
 - Dans Vivebraise, leur conscience, toujours dans la relique, ouvre le roman en pleine
   désillusion devant la dystopie qu'est devenu leur rêve.
+- Son livre de vivardoise, narrateur de Vivencre, devient dans Vivebraise le **livre interdit**
+  lu par Wanjil.
 - À la fin de Vivebraise, [Wanjil](wanjil.md) les libère de la relique dans un feu de joie.
 
 ## Relations
