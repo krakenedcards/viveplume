@@ -21,7 +21,7 @@ _À compléter._
   vivencre à un livre, elle lui abandonne sa mémoire une fois par semaine et s'en sert en
   échange comme agent personnel.
 - Elle communique grâce à sa **viveplume**, qui dessine ses pensées.
-- Son histoire l'amène à côtoyer le [peuple de la brume](../factions/peuple-de-la-brume.md).
+- Son histoire l'amène à côtoyer les [Passebrume](../factions/passebrume.md).
 - Dans Vivebrume, elle fusionne concrètement avec [Semekhet](semekhet.md) en une
   relique mythique qui fonde la nation utopique.
 - Dans Vivebraise, leur conscience, toujours dans la relique, ouvre le roman en pleine
@@ -29,7 +29,7 @@ _À compléter._
 
 ## Relations
 - [[semekhet]] : fusionne avec lui dans la relique (Vivebrume).
-- [[peuple-de-la-brume]] : _à préciser_.
+- [[passebrume]] : _à préciser_.
 
 ## Apparitions
 - Vivencre : personnage principal.

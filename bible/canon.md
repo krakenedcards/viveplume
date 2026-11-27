@@ -20,3 +20,4 @@ Décisions définitives, datées. Elles priment sur tout le reste.
 | 27/11/2026 | La vivebrume condensée redevient liquide (vivencre) : matière des prisons de Vivebraise. |
 | 27/11/2026 | Vivebrume suit les points de vue d'Eleanore et de Semekhet, qui fusionnent en une relique mythique fondatrice de la nation utopique ; Vivebraise s'ouvre sur leur point de vue, désabusé. |
 | 27/11/2026 | Orthographe : Eleanore (sans accent). |
+| 27/11/2026 | Le peuple qui disparaît dans la brume s'appelle les Passebrume (nom donné par les lords ; un second nom, le leur, pourra venir plus tard). Peuple sans écriture ; pas de tombes mais des rêves accomplis qu'on raconte ; méfiance envers les livres des vivepages. |

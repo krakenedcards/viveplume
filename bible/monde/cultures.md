@@ -1,7 +1,7 @@
 # Peuples et cultures
 
 - **Lords et ladies** (monde de Vivencre) : noblesse servie par des [vivepages](../factions/vivepages.md).
-- **[Peuple de la brume](../factions/peuple-de-la-brume.md)** (monde de Vivencre) : peuple qui
+- **[Passebrume](../factions/passebrume.md)** (monde de Vivencre) : peuple qui
   disparaît dans la vivebrume quand il sent avoir accompli ce qu'il voulait faire de sa vie.
 - **[Vivardoises](../factions/vivardoises.md)** (monde de Vivepierre) : esclaves des mines de
   Vivepierre.

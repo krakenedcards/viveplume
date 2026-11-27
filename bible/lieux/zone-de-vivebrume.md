@@ -12,7 +12,7 @@ Vaste zone remplie de vivebrume, qui **sépare les deux mondes** de Vivencre et 
 La vivebrume y **consume les rêves** de ceux qui y entrent.
 
 ## Histoire
-- C'est là que le [peuple de la brume](../factions/peuple-de-la-brume.md) disparaît quand il a
+- C'est là que le peuple des [Passebrume](../factions/passebrume.md) disparaît quand il a
   accompli sa vie (Vivencre).
 - La fuite de [Semekhet](../personnages/semekhet.md) s'y arrête (Vivepierre).
 - Les deux mondes s'y rencontrent et une nation nouvelle s'y bâtit (Vivebrume).

@@ -11,3 +11,4 @@
 | Vivardoise | Esclave des mines de Vivepierre. | Vivepierre |
 | Vivardoise (matière) | Ardoise vivante dont sont faits les livres des vivepages ; reçoit leur mémoire. Lien avec la vivepierre révélé plus tard. | Vivencre |
 | Relique | Relique mythique née de la fusion d'Eleanore et de Semekhet ; fonde la nation de la brume. | Vivebrume |
+| Passebrume | Peuple sans écriture du monde de Vivencre, qui disparaît dans la vivebrume quand il a accompli sa vie. | Vivencre |
