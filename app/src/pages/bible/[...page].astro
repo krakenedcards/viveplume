@@ -1,0 +1,23 @@
+---
+import Page from '../../layouts/Page.astro';
+import { getCollection } from 'astro:content';
+import { base } from '../../content.mjs';
+import { localLink } from '../../bible.mjs';
+import { renderPage } from '../../markdown.mjs';
+export async function getStaticPaths() {
+  const entries = (await getCollection('bible')).map(e => e.data);
+  return entries.map(page => {
+    const parentId = page.id.split('/').slice(0,-1).join('/');
+    return { params:{ page:page.id.split('/').slice(1).join('/') || undefined }, props:{
+      page, parent: entries.find(e => e.id === parentId),
+      children: entries.filter(e => e.id.startsWith(page.id + '/') && e.id.split('/').length === page.id.split('/').length + 1)
+    }};
+  });
+}
+const {page, parent, children} = Astro.props;
+const html = page.file ? await renderPage(page.file, href => localLink(page.file, href)) : '';
+---
+<Page title={page.title}><article class="reading">{parent && <a href={base + parent.id + '/'}>← {parent.title}</a>}
+{!/<h1\b/.test(html) && <h1>{page.title}</h1>}<div class="prose" set:html={html}></div>
+{children.length > 0 && <nav aria-label="Dans cette rubrique"><ul>{children.map(e => <li><a href={base + e.id + '/'}>{e.title}</a></li>)}</ul></nav>}
+{!html && !children.length && <p>Aucune fiche publiée.</p>}</article></Page>

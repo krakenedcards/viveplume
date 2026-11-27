@@ -1,0 +1,13 @@
+---
+import Page from '../layouts/Page.astro';
+import { getCollection } from 'astro:content';
+import { base, compareBooks, media } from '../content.mjs';
+const books = (await getCollection('romans')).map(e => e.data).sort(compareBooks);
+const chapters = await getCollection('chapitres');
+---
+<Page title="Les romans"><h1>Les romans</h1><div class="shelf">{books.map(async book => {
+  const count = chapters.filter(c => c.data.roman === book.slug).length;
+  const cover = book.couverture && await media('romans/' + book.slug + '/roman.yaml', book.couverture);
+  return <article class="book"><div class="binding" data-slug={book.slug} aria-hidden="true">{cover ? <img src={cover} alt="" /> : <span>{book.titre}</span>}</div>
+  <h2><a href={base+'romans/'+book.slug+'/'}>{book.titre}</a></h2>{book.resume && <p>{book.resume}</p>}<small>{count ? count + (count === 1 ? ' chapitre' : ' chapitres') : 'Bientôt disponible'}</small></article>;
+})}</div></Page>
