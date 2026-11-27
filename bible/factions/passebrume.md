@@ -22,7 +22,8 @@ il **disparaît dans la vivebrume**.
   semaine leur paraît monstrueux, à eux qui vivent pour accomplir.
 
 ## Organisation et membres
-_À compléter._
+- La **petite amie d'[Eleanore](../personnages/eleanore.md)** (nom à choisir) : après la disparition
+  d'Eleanore, elle poursuit son rêve avec Semekhet (Vivebrume).
 
 ## Histoire
 _À compléter._

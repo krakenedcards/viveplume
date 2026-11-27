@@ -12,3 +12,4 @@
 | Vivardoise (matière) | Ardoise vivante dont sont faits les livres des vivepages ; reçoit leur mémoire. Lien avec la vivepierre révélé plus tard. | Vivencre |
 | Relique | Statue de vivepierre (Semekhet) portant le collier de perles où s'est enfermée Eleanore devenue brume ; fonde la nation de la brume. | Vivebrume |
 | Passebrume | Peuple sans écriture du monde de Vivencre, qui disparaît dans la vivebrume quand il a accompli sa vie. | Vivencre |
+| Empire esclavagiste (nom provisoire) | Empire du monde de Vivepierre, maître des mines et des vivardoises. | Vivepierre |

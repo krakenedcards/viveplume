@@ -22,16 +22,17 @@ _À compléter._
   **déformée et décalée dans le temps**.
 - Il s'évade et fuit, et sa fuite finit en cul-de-sac devant la
   [vivebrume](../lieux/zone-de-vivebrume.md).
-- Il porte un **collier de perles**.
+- Il porte un **collier de perles de vivardoise** qu'il a construit lui-même dans les mines.
 - Dans Vivebrume, Eleanore devenue brume s'enferme dans son collier ; plus tard, il **devient une
   statue de vivepierre**. Il fusionne ainsi concrètement avec [Eleanore](eleanore.md) en une
-  relique mythique qui fonde la nation utopique.
+  relique mythique qui fonde la nation utopique. Avec la petite amie passebrume d'Eleanore, il
+  poursuit le rêve d'Eleanore d'une nation unie et égale.
 - Dans Vivebraise, leur conscience, toujours dans la relique, ouvre le roman en pleine
   désillusion devant la dystopie qu'est devenu leur rêve.
 
 ## Relations
 - [[eleanore]] : fusionne avec elle dans la relique (Vivebrume).
-_À compléter._
+- [[empire-esclavagiste]] : ses anciens maîtres, qu'il fuit (Vivepierre).
 
 ## Apparitions
 - Vivepierre : personnage principal.
