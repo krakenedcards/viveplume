@@ -4,5 +4,6 @@ import '../style.css';
 const { title } = Astro.props;
 ---
 <!doctype html><html lang="fr"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title} · Vivelande</title></head>
-<body><a class="skip" href="#contenu">Aller au contenu</a><header><a class="brand" href={base}>Vivelande</a><nav aria-label="Navigation principale"><a href={base}>Romans</a></nav></header>
-<main id="contenu"><slot /></main><footer>Vivelande · Liseuse</footer></body></html>
+<body><a class="skip" href="#contenu">Aller au contenu</a><header><a class="brand" href={base}>Vivelande</a><nav aria-label="Navigation principale"><a href={base}>Romans</a></nav><details><summary>Affichage</summary><div class="settings"><label>Thème <select data-setting="theme"><option value="auto">Automatique</option><option value="light">Clair</option><option value="dark">Sombre</option></select></label>
+<label>Taille du texte <select data-setting="size"><option value="standard">Normale</option><option value="large">Grande</option><option value="xlarge">Très grande</option></select></label></div></details></header>
+<main id="contenu"><slot /></main><footer>Vivelande · Liseuse</footer><script>import "../reader.js";</script></body></html>

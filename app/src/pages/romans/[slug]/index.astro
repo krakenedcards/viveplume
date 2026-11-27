@@ -10,5 +10,5 @@ export async function getStaticPaths() {
 }
 const { book, chapters } = Astro.props;
 ---
-<Page title={book.titre}><h1>{book.titre}</h1>{book.resume && <p>{book.resume}</p>}<h2>Sommaire</h2>
-{chapters.length ? <ol>{chapters.map(c => <li value={c.numero}><a href={chapterUrl(c.file)}>{c.titre}</a></li>)}</ol> : <p>Bientôt disponible</p>}</Page>
+<Page title={book.titre}><section data-summary={book.slug}><h1>{book.titre}</h1>{book.resume && <p>{book.resume}</p>}<nav data-resume aria-label="Lecture enregistrée"></nav><h2>Sommaire</h2>
+{chapters.length ? <ol>{chapters.map(c => <li value={c.numero}><a href={chapterUrl(c.file)}>{c.titre}</a></li>)}</ol> : <p>Bientôt disponible</p>}</section></Page>
