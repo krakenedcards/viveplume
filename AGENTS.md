@@ -59,16 +59,34 @@ Un agent **ne tranche jamais seul** une contradiction : il l'inscrit dans
 ## 7. Git et coordination entre agents
 
 - **Jamais de commit direct sur `main`.** Une branche par tâche :
-  - Claude : `claude/<sujet>` ; ChatGPT : `chatgpt/<sujet>`.
+  - Claude : `claude/<sujet>` ; ChatGPT / Codex : `chatgpt/<sujet>` ou `codex/<sujet>`.
 - Une tâche = une PR, petite et ciblée (un chapitre, une fiche, une fonctionnalité de l'app).
 - Avant de commencer : récupérer `main` à jour et vérifier les PR ouvertes ;
   ne pas travailler sur un fichier modifié par une PR ouverte de l'autre agent.
+- **Répartition par issues** : chaque tâche est une issue GitHub portant l'étiquette
+  `agent:claude` ou `agent:chatgpt`. Un agent ne traite que les issues à son étiquette
+  (ou la tâche que l'auteur lui donne directement) et cite l'issue dans sa PR (`Closes #N`).
+- **Zones** : deux agents ne travaillent jamais en même temps sur le même chapitre ni sur
+  la même fiche de bible. Écrire en parallèle sur deux romans différents est sans risque.
+- **Fusion des PR** : une PR d'agent (branche `claude/`, `chatgpt/` ou `codex/`) est
+  fusionnée **automatiquement** dès que la vérification passe ; l'agent n'a rien à faire
+  de plus. Exceptions, marquées automatiquement de l'étiquette `relecture-auteur` et
+  fusionnées par l'auteur seul : changements de `AGENTS.md`, `CLAUDE.md`, `bible/canon.md`,
+  `.github/`, `outils/`, et tout chapitre au statut `final` (ou qui y passe).
+  Un agent ne retire jamais cette étiquette et ne contourne jamais ce mécanisme.
+  Pour que l'auteur relise une PR ordinaire, l'ouvrir en brouillon (draft) ou lui
+  ajouter l'étiquette `relecture-auteur`.
 - Messages de commit : `<zone>(<roman|bible|app>): <action>`,
   ex. `roman(vivencre): chapitre 3 premier jet`, `bible(lieux): ajoute Brumemont`.
 - À la fin de chaque session, ajouter une entrée dans `suivi/journal.md`.
 - Lancer `python3 outils/verifier.py` avant de pousser ; la CI le relance sur chaque PR.
 
-## 8. L'application (`app/`)
+## 8. Environnement
+
+- Aucune dépendance pour le texte : seul Python 3 est nécessaire (`python3 outils/verifier.py`).
+- Pas de secret ni de clé dans le dépôt.
+
+## 9. L'application (`app/`)
 
 - Elle lit le contenu **directement** depuis `romans/` et `bible/` : ne jamais copier
   le texte des romans dans `app/`.
