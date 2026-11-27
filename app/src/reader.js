@@ -46,3 +46,9 @@ if (article) {
     article.querySelector('[role=status]').textContent = save('bookmark:' + book, position()) ? 'Marque-page enregistré.' : 'Stockage indisponible sur cet appareil.';
   });
 }
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/viveplume/sw.js').catch(() => {});
+  });
+}

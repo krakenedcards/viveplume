@@ -3,7 +3,7 @@ import anchor from 'markdown-it-anchor';
 import path from 'node:path';
 import { base, media, read } from './content.mjs';
 
-const md = new MarkdownIt({ html: false }).use(anchor);
+const md = new MarkdownIt({ html: false }).use(anchor, { slugify: text => text.trim().toLocaleLowerCase('fr').replace(/[^\p{L}\p{N}\s_-]/gu, '').replace(/\s+/g, '-') });
 const escape = md.utils.escapeHtml;
 export const chapterUrl = file => base + file.replace(/\.md$/, '/');
 export async function renderPage(file, link = href => href, illustrations = []) {
