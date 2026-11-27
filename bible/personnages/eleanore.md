@@ -32,7 +32,8 @@ _À compléter._
 
 ## Relations
 - [[semekhet]] : fusionne avec lui dans la relique (Vivebrume).
-- [[passebrume]] : sa **petite amie** est une Passebrume (nom à choisir).
+- [[passebrume]] : sa **petite amie** est une Passebrume (nom à choisir). Elles se rencontrent dans Vivencre ; leur
+  amour naissant est l'un des sujets du roman.
 - [[empire-esclavagiste]] : un de ses membres manque de la tuer (Vivebrume).
 
 ## Apparitions

@@ -25,3 +25,4 @@ Décisions définitives, datées. Elles priment sur tout le reste.
 | 27/11/2026 | La relique : Eleanore devient brume et s'enferme dans le collier de perles de Semekhet pour ne pas disparaître ; plus tard, Semekhet devient une statue de vivepierre. |
 | 27/11/2026 | Le collier de Semekhet est fait de perles de vivardoise, qu'il a construit lui-même dans les mines. |
 | 27/11/2026 | Sur le point d'être tuée par un membre de l'empire esclavagiste de Vivepierre, Eleanore s'abandonne à la vivebrume. Sa petite amie, une Passebrume, et Semekhet poursuivent son rêve de nation unie et égale. |
+| 27/11/2026 | Eleanore rencontre sa petite amie passebrume dans Vivencre ; leur amour naissant est un sujet du roman. |

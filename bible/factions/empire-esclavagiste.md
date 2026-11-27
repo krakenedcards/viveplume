@@ -1,11 +1,13 @@
 ---
-nom: "L'empire esclavagiste (nom provisoire)"
+nom: "L'empire esclavagiste (nom provisoire : Romual ?)"
 slug: "empire-esclavagiste"
 romans: [vivepierre, vivebrume]
 illustration: null
 ---
 
 ## Nature et objectifs
+Nom envisagé par l'auteur : **Romual** (à confirmer).
+
 Empire du monde de Vivepierre, qui exploite les [mines de Vivepierre](../lieux/mines-de-vivepierre.md)
 grâce à ses esclaves, les [vivardoises](vivardoises.md).
 
