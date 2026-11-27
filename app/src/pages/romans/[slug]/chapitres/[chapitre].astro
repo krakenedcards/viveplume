@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Page from '../../../../layouts/Page.astro';
+import { base } from '../../../../content.mjs';
+import { renderPage, chapterUrl } from '../../../../markdown.mjs';
+export async function getStaticPaths() {
+  const chapters = (await getCollection('chapitres')).map(c => c.data).sort((a,b) => a.numero-b.numero);
+  return (await getCollection('romans')).flatMap(({data: book}) => {
+    const series = chapters.filter(c => c.roman === book.slug);
+    return series.map((c, index) => ({ params: {slug: book.slug, chapitre: c.file.split('/').pop().slice(0,-3)}, props: {book,c,prev:series[index-1],next:series[index+1],index,total:series.length} }));
+  });
+}
+const { book,c,prev,next,index,total } = Astro.props;
+const html = await renderPage(c.file, undefined, c.illustrations);
+---
+<Page title={c.titre}><article class="reading" data-chapter={c.file} data-book={book.slug} data-index={index} data-total={total}>
+<a href={base+'romans/'+book.slug+'/'}>{book.titre} · Sommaire</a>
+<p>Chapitre {c.numero}</p><h1>{c.titre}</h1><div class="prose" set:html={html}></div>
+<nav aria-label="Chapitres">{prev && <a rel="prev" href={chapterUrl(prev.file)}>Précédent · {prev.titre}</a>}{next && <a rel="next" href={chapterUrl(next.file)}>Suivant · {next.titre}</a>}</nav></article></Page>

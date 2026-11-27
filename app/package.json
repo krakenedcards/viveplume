@@ -7,6 +7,8 @@
   "type": "module",
   "dependencies": {
     "astro": "5.18.2",
+    "markdown-it": "15.0.3",
+    "markdown-it-anchor": "10.1.0",
     "sharp": "0.35.5",
     "yaml": "2.9.1"
   }

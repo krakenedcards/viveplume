@@ -19,3 +19,5 @@ Seuls les chapitres au statut `relu` ou `final` sont publiés.
 La construction utilise Astro 5 et Node 24. Depuis app/, lancer `npm ci`, `npm test` puis `npm run build`. Le site est généré dans dist/ pour /viveplume/. Utiliser `VIVELANDE_FIXTURES=1 npm run build` pour les données fictives.
 
 Les chargeurs des collections parcourent les sources au moyen du glob natif de Node. Le filtrage précède le rendu Markdown pour que les modèles et leurs images d’exemple ne soient jamais publiés. Les couvertures sont converties en WebP pendant la construction. Un cartonnage typographique remplace une couverture absente. Les romans sans ordre explicite suivent les romans numérotés, par titre français.
+
+Les routes de chapitre conservent le chemin source, sans extension. Le numéro YAML ordonne le sommaire et les liens précédent/suivant. Markdown-it rend les illustrations et leur légende et désactive le HTML brut.
