@@ -3,14 +3,16 @@ nom: "Ilwë"
 slug: "ilwe"
 romans: [vivencre, vivebrume]
 statut: vivant
-illustration: null
+illustration: ../illustrations/portrait-ilwe.webp
 ---
 
 ## En une phrase
 Jeune Passebrume, amoureuse d'Eleanore, qui poursuit son rêve après sa disparition.
 
 ## Apparence
-_À compléter._
+![Portrait de Ilwë](../illustrations/portrait-ilwe.webp)
+
+Ilwë a le teint brun et les cheveux noirs. Elle noue sa longue tresse avec un ruban et porte un manteau brun rouge bordé de perles.
 
 ## Caractère et motivations
 _À compléter._
