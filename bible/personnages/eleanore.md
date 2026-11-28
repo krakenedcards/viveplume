@@ -3,14 +3,16 @@ nom: "Eleanore"
 slug: "eleanore"
 romans: [vivencre, vivebrume, vivebraise]
 statut: vivant
-illustration: null
+illustration: ../illustrations/portrait-eleanore.webp
 ---
 
 ## En une phrase
 Vivepage humaine et muette, qui parle avec sa viveplume.
 
 ## Apparence
-_À compléter._
+![Portrait de Eleanore](../illustrations/portrait-eleanore.webp)
+
+Eleanore porte les cheveux auburn courts et bouclés. Elle a des taches de rousseur et porte une veste de page bleu nuit.
 
 ## Caractère et motivations
 _À compléter._
